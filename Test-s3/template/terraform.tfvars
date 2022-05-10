@@ -1,0 +1,12 @@
+region = "us-west-2"
+bucket  = ""
+acl = ""
+force_destroy = ""
+grant = []
+restrict_public_buckets = ""
+object_lock_configuration = ""
+object_lock_enabled = ""
+versioning = {}
+block_public_acls = ""
+block_public_policy = "" 
+ignore_public_acls = ""
